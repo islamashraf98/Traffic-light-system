@@ -17,11 +17,3 @@ However, there are certain conditions that are followed in the code where the pr
 -The button is pressed within the 2 seconds of switching
 
 Lastly, a status of the green lights in the system is transmitted through UART0 in order to monitor our system well.
-
-
-This project is done by:
-Islam Ashraf 17P6086
-Malak Walid 17P6095
-Omar Saad 17P6008
-Amira Alaa 17P6036
-Alanood Yassin 18P5128
